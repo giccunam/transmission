@@ -3,7 +3,7 @@
 #
 # MAKEFILE GNU MAKE for Linux Version 1.0
 # Copyright (C) 2002 by Free Software Foundation, Inc.
-# Author: Antonio Téllez Flores <atellezf@yahoo.com.mx>
+# Author: Antonio Tï¿½llez Flores <atellezf@yahoo.com.mx>
 #
 #                         COPYING
 #
